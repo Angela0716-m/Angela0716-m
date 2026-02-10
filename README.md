@@ -2,7 +2,7 @@
 ## Hi, welcome I'm Angela 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analytics+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Powerbi+BI+Developer;Story+telling]" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+AnalysT+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Powerbi+BI+Developer" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
