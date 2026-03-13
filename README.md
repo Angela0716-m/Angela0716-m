@@ -1,59 +1,139 @@
-
-## Hi, welcome I'm Angela 👋
+# Hi, I'm Angela 👋  
+### Data Analyst | Business Intelligence Developer | Turning Data into Actionable Insights
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Powerbi+BI+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Developer;SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Business+Insights" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/matlhogonolo-mokhele-38a977283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:angelamokhele1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/matlhogonolo-mokhele-38a977283/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  
+  <a href="mailto:angelamokhele1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+# About Me
 
-When I'm not working with data, I enjoy playing soduko and puzzles. I love the "aha!" moment when data reveals something new and useful.
+I'm a **Data Analyst passionate about transforming raw data into meaningful insights that help businesses make better decisions.**
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 Projects 
+I specialize in:
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- Turning **messy datasets into clear insights**
+- Building **interactive dashboards that drive decisions**
+- Automating **data workflows and reporting**
+- Applying **statistical analysis and machine learning** to real-world problems
 
-## 🌱 Currently Learning 
+I enjoy the moment when **data reveals patterns that were previously hidden**.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+When I'm not working with data, I enjoy **Sudoku, puzzles, and problem-solving challenges**.
 
-## 🛠️ Technical Skillset
+---
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+# What I Work With
 
-#### Data Analysis & Visualization
+• Data Analysis  
+• Business Intelligence  
+• Data Visualization  
+• Machine Learning  
+• Time Series Forecasting  
+• SQL Data Warehousing  
+• Predictive Analytics  
+
+---
+
+# Featured Projects
+
+###  Digital Allyship Analytics Warehouse
+SQL Server data warehouse designed to consolidate platform usage, learning engagement, and analytics reporting.
+
+**Tools:** SQL Server | ETL | Data Modeling | Analytics  
+
+---
+
+### Real Estate Price Analysis
+Exploratory data analysis and predictive modeling on housing market data.
+
+**Tools:** Python | Pandas | Matplotlib | Machine Learning  
+
+---
+
+### Sales Forecasting Model
+Built a predictive model to forecast sales trends and identify future business opportunities.
+
+**Tools:** Python | Time Series Analysis | Statistical Modeling  
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Cloud Data Platforms
+- Advanced SQL Optimization
+- Data Storytelling
+
+---
+
+#  Technical Skills
+
+### Data Analysis & Visualization
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white">
 </p>
 
-#### Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+---
 
-#### Business Intelligence & Analytics
+###  Programming
+
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas">
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat&logo=numpy">
 </p>
+
+---
+
+### Business Intelligence & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat">
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat">
+<img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat">
+<img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat">
+</p>
+
+---
+
+#  GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+# Portfolio
+
+### View My Portfolio Website
+
+https://your-username.github.io/
+
+---
+
+#  Let's Connect
+
+If you're interested in collaborating, data analytics, or discussing projects:
+
+📧 **Email:** angelamokhele1@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/matlhogonolo-mokhele-38a977283/
 
