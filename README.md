@@ -145,7 +145,7 @@ Python • Time Series Analysis • Statistical Modeling
 
 ###  View My Portfolio Website
 
-https://your-username.github.io/
+(https://angelamokheledata.my.canva.site/black-and-white-minimalist-creative-portfolio-presentation)
 
 ---
 
