@@ -82,20 +82,19 @@ Technologies used:
 Python • Pandas • Matplotlib • Data Analysis
 
 ---
+###  Student Engagement & Churn Analysis
 
-###  Sales Forecasting Model
-
-Built predictive models to estimate future sales and identify business trends.
+Analyzed student participation data to identify patterns influencing engagement and program retention.
 
 Key contributions:
 
-• Time series data analysis  
-• Forecast modeling  
-• Data visualization for business insights  
+• Exploratory data analysis of student engagement trends
+• Predictive modeling for churn risk detection
+• Insight generation to improve retention strategies
 
 Technologies used:
 
-Python • Time Series Analysis • Statistical Modeling
+Python • SQL • Machine Learning • Data Visualization
 
 ---
 
