@@ -128,18 +128,6 @@ Python • SQL • Machine Learning • Data Visualization
 
 ---
 
-#  GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight">
-
-</p>
-
----
-
 #  Portfolio
 
 ###  View My Portfolio Website
@@ -150,7 +138,7 @@ Python • SQL • Machine Learning • Data Visualization
 
 #  Let's Connect
 
-If you're interested in collaborating or discussing data analytics projects:
+If you're interested in collaborating or discussing data analytics projects and job oportunities:
 
 📧 Email: angelamokhele1@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/matlhogonolo-mokhele-38a977283/
